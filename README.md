@@ -13,7 +13,7 @@ Designing and overseeing pricing pages can be complex for SaaS enterprises. Deve
 - A/B testing capabilities to optimize pricing strategies and measure effectiveness.
 - By providing a comprehensive solution for pricing page management, this platform can help SaaS businesses streamline their pricing strategies and improve conversions.
 
-**Features **
+**Features**
 
 - Options to add/change theme including colour palette, Fonts, etc.
 - Alternatives to select and choose, from templates.

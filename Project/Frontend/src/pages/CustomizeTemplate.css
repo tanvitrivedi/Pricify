@@ -1,0 +1,28 @@
+.ant-menu {
+  background-color: #4b00e2;
+  color: #c6aaff;
+}
+
+.ant-menu-item {
+  color: #c6aaff !important;
+}
+
+.ant-menu-item:hover::after,
+.ant-menu-item-selected::after {
+  border-bottom-width: 2px;
+  border-bottom-color: #c6aaff !important;
+}
+.ant-menu-item-selected {
+  border-right-width: 0px !important;
+}
+
+.ant-segmented-item {
+  flex: 1 1 auto;
+}
+.ant-segmented-item-selected {
+  background-color: #c6aaff !important;
+}
+
+.ant-checkbox + span {
+  color: black;
+}

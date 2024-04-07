@@ -1,0 +1,8 @@
+.ant-menu-submenu-title {
+  color: white !important; /* Set text color to white */
+}
+
+.ant-menu-item:hover,
+.ant-menu-submenu-title:hover {
+  border-bottom: none !important; /* Remove underline when hovering */
+}
